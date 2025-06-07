@@ -1,10 +1,10 @@
 import streamlit as st
 
-# Background image using custom HTML and CSS
+# Working background image from Unsplash (copyright-free)
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"] {
-background-image: url("https://i.imgur.com/Ula4IwV.jpg");
+background-image: url("https://images.unsplash.com/photo-1615910114879-c92ef125fda3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
